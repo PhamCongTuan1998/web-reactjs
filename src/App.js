@@ -4,7 +4,7 @@ import React from 'react'
 
 function App() {
   return (
-    <p>Tuan</p>
+    <p>Tuan Pham</p>
   );
 }
 
