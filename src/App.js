@@ -7,8 +7,8 @@ import TodoList from './components/TodoList';
 
 function App() {
   return (
-    // <TodoItem />
-    <AlbumFeature />
+    <TodoItem />
+    // <AlbumFeature />
     // <TodoList />
   );
 }
